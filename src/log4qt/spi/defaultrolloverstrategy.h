@@ -21,6 +21,7 @@
 #ifndef LOG4QT_DEFAULTROLLOVERSTRATEGY_H
 #define LOG4QT_DEFAULTROLLOVERSTRATEGY_H
 
+#include "log4qt/log4qtshared.h"
 #include "rolloverstrategy.h"
 
 namespace Log4Qt

@@ -21,7 +21,7 @@
 #ifndef LOG4QT_HELPERS_CRONEXPRESSION_H
 #define LOG4QT_HELPERS_CRONEXPRESSION_H
 
-#include "log4qt/log4qt.h"
+#include "log4qt/log4qtshared.h"
 
 #include <QDateTime>
 #include <QString>

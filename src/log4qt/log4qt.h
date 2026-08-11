@@ -21,8 +21,6 @@
 #ifndef LOG4QT_H
 #define LOG4QT_H
 
-#include "log4qtshared.h"
-
 /*!
  * \page Log4Qt/Log4j
  *

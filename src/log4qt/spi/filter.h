@@ -21,7 +21,7 @@
 #ifndef LOG4QT_FILTER_H
 #define LOG4QT_FILTER_H
 
-#include "log4qt/log4qt.h"
+#include "log4qt/log4qtshared.h"
 #include "log4qt/log4qtsharedptr.h"
 
 #include <QMutex>
@@ -83,8 +83,6 @@ private:
     FilterSharedPtr mNext;
 };
 
-
 } // namespace Log4Qt
-
 
 #endif // LOG4QT_FILTER_H
