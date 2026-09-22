@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 ----
-## [v2.0.1] - ??
+## [v2.0.1] - 26.09.2026
 ### Fixed
 - `%X{key}` in a pattern printed the key literally instead of the MDC value
   (issue #79). A bare `%X` now renders the whole MDC as `{key=value, ...}`,
