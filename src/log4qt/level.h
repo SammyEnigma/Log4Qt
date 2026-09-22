@@ -21,7 +21,7 @@
 #ifndef LOG4QT_LEVEL_H
 #define LOG4QT_LEVEL_H
 
-#include "log4qt.h"
+#include "log4qtshared.h"
 
 #include <QString>
 #include <QStringView>

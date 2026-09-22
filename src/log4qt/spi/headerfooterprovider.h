@@ -21,7 +21,7 @@
 #ifndef LOG4QT_HEADERFOOTERPROVIDER_H
 #define LOG4QT_HEADERFOOTERPROVIDER_H
 
-#include "log4qt/log4qt.h"
+#include "log4qt/log4qtshared.h"
 #include "log4qt/log4qtsharedptr.h"
 
 #include <QObject>
